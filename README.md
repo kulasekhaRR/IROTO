@@ -1,5 +1,7 @@
 # IROTO
 
-project contribution:\n
-Front-end, database connection:Imtiyaz\n
+project contribution:
+
+Front-end, database connection:Imtiyaz
+
 Back-end: Kulasekhar
