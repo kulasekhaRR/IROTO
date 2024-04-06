@@ -1,7 +1,3 @@
 # IROTO
 
-project contribution:
-
-Front-end, database connection:Imtiyaz
-
-Back-end: Kulasekhar
+A Intellectual Clone and New innovative design for Railway Ticket Booking 
